@@ -14,7 +14,7 @@
  * int coeff The Coefficient
  * int pow The power of x
  */
-typedef struct link {
+typedef struct link {fchjbkn;,l.
     int coeff;
     int pow;
     struct link * next;
